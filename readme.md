@@ -11,5 +11,3 @@
 # style the campgrounds page
 * add a better header/title
 * make campgrounds dispaly in a grid
-
-version1
